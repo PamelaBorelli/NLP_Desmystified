@@ -1,11 +1,10 @@
-# Natural Language Processing
-## Demystified
-
-Um curso gratuito e abrangente para te transformar em um especialista em NLP.
+# Natural Language Processing Demystified
+## Um curso gratuito e abrangente para te transformar em um especialista em NLP.
 
 Visite o site do curso
+https://www.nlpdemystified.org/
 
-Neste curso, você vai aprender:
+Conteúdo:
 
 - Conceitos e algoritmos fundamentais de NLP.
 - Os fundamentos de aprendizado de máquina.
